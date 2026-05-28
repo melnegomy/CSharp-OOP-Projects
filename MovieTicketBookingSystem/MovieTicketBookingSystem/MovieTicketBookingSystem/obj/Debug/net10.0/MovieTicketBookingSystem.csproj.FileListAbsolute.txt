@@ -1,0 +1,14 @@
+D:\programming\Route\OOP\MovieTicketBookingSystem\MovieTicketBookingSystem\bin\Debug\net10.0\MovieTicketBookingSystem.exe
+D:\programming\Route\OOP\MovieTicketBookingSystem\MovieTicketBookingSystem\bin\Debug\net10.0\MovieTicketBookingSystem.deps.json
+D:\programming\Route\OOP\MovieTicketBookingSystem\MovieTicketBookingSystem\bin\Debug\net10.0\MovieTicketBookingSystem.runtimeconfig.json
+D:\programming\Route\OOP\MovieTicketBookingSystem\MovieTicketBookingSystem\bin\Debug\net10.0\MovieTicketBookingSystem.dll
+D:\programming\Route\OOP\MovieTicketBookingSystem\MovieTicketBookingSystem\bin\Debug\net10.0\MovieTicketBookingSystem.pdb
+D:\programming\Route\OOP\MovieTicketBookingSystem\MovieTicketBookingSystem\obj\Debug\net10.0\MovieTicketBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Route\OOP\MovieTicketBookingSystem\MovieTicketBookingSystem\obj\Debug\net10.0\MovieTicketBookingSystem.AssemblyInfoInputs.cache
+D:\programming\Route\OOP\MovieTicketBookingSystem\MovieTicketBookingSystem\obj\Debug\net10.0\MovieTicketBookingSystem.AssemblyInfo.cs
+D:\programming\Route\OOP\MovieTicketBookingSystem\MovieTicketBookingSystem\obj\Debug\net10.0\MovieTicketBookingSystem.csproj.CoreCompileInputs.cache
+D:\programming\Route\OOP\MovieTicketBookingSystem\MovieTicketBookingSystem\obj\Debug\net10.0\MovieTicketBookingSystem.dll
+D:\programming\Route\OOP\MovieTicketBookingSystem\MovieTicketBookingSystem\obj\Debug\net10.0\refint\MovieTicketBookingSystem.dll
+D:\programming\Route\OOP\MovieTicketBookingSystem\MovieTicketBookingSystem\obj\Debug\net10.0\MovieTicketBookingSystem.pdb
+D:\programming\Route\OOP\MovieTicketBookingSystem\MovieTicketBookingSystem\obj\Debug\net10.0\MovieTicketBookingSystem.genruntimeconfig.cache
+D:\programming\Route\OOP\MovieTicketBookingSystem\MovieTicketBookingSystem\obj\Debug\net10.0\ref\MovieTicketBookingSystem.dll
